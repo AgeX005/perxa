@@ -66,6 +66,7 @@ img{
 .card h2{
     margin: 0px;
     padding: 5px;
+    font-size: 48px;
     color: #524632;
 }
 
@@ -137,7 +138,7 @@ img{
     width: 100%;
     margin: 0px;
     padding: 16px;
-    font-size: 52px;
+    font-size: 72px;
     color: #524632;
 }
 
@@ -159,15 +160,16 @@ img{
     text-align: center;
     list-style: none;
     list-style-type: none;
-    font-size: 64px;
+    font-size: 132px;
     margin: 8px;
     padding: 0px;
 }
-.homeBanner h1, h2,h3{
+.homeBanner h2,h3{
     flex: 0 0 auto;
     text-align: center;
     list-style: none;
     list-style-type: none;
+    font-size: 48px;
     margin: 8px;
     padding: 0px;
 }
@@ -190,6 +192,7 @@ img{
     margin: 0px;
     padding: 0px 0px 0px 16px;
     width: 100%;
+    font-size: 48px;
     text-align: left;
     align-items: center;
     justify-content: center;
@@ -236,12 +239,13 @@ button:active{
     flex: 0 0 auto;
     margin: 8px;
     padding: 0px;
+    font-size: 64px;
 }
 .foot img{
     flex: 0 0 auto;
     object-fit: cover;
     overflow: hidden;
-    height: 64px;
+    height: 256px;
     border-radius: 0px;
 }
 
