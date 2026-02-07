@@ -24,13 +24,13 @@ html {
 
 body {
     height: 80%;
-    padding: 64px;
+    padding: 16px;
 }
 
 .card {
     cursor: pointer;
     border-radius: 12px;
-    width: 256px;
+    width: 350px;
     display: flex;
     flex-direction: column;
     flex: 0 0 auto;
